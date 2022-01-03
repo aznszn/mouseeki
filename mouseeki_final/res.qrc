@@ -1,0 +1,31 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file alias="add">resources/icons/add.png</file>
+        <file alias="back">resources/icons/back.png</file>
+        <file alias="down-arrow">resources/icons/down-arrow.png</file>
+        <file alias="handle">resources/icons/handle.png</file>
+        <file alias="hearthed">resources/icons/hearthed.png</file>
+        <file alias="home-page">resources/icons/home-page.png</file>
+        <file alias="left-arrow">resources/icons/left-arrow.png</file>
+        <file alias="next">resources/icons/next.png</file>
+        <file alias="norepeat">resources/icons/norepeat.png</file>
+        <file alias="pause">resources/icons/pause.png</file>
+        <file alias="play">resources/icons/play.png</file>
+        <file alias="playlist">resources/icons/playlist.png</file>
+        <file alias="repeat">resources/icons/repeat.png</file>
+        <file alias="repeat1">resources/icons/repeat1.png</file>
+        <file alias="right-arrow">resources/icons/right-arrow.png</file>
+        <file alias="search">resources/icons/search.png</file>
+        <file alias="up-arrow">resources/icons/up-arrow.png</file>
+    </qresource>
+    <qresource prefix="/stylesheet">
+        <file alias="dark">resources/stylsheet/dark.qss</file>
+    </qresource>
+    <qresource prefix="/logo">
+        <file alias="mouseekiv1.2">resources/logo/moseekiv1.2.png</file>
+        <file>resources/logo/Mouseeki_v1.2.jpg</file>
+    </qresource>
+    <qresource prefix="/fonts">
+        <file>resources/fonts/GothicA1-ExtraBold.ttf</file>
+    </qresource>
+</RCC>
